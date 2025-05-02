@@ -34,4 +34,4 @@ I love crafting simulation scripts, designing photonic circuits, and building CA
 ## 📫 Contact
 Feel free to reach out via:
 - 📧 Email: `tbaba.flabo [at] gmail [dot] com`
-- 🌐 [note メンバーシップ記事](https://note.com/regal_turtle3282) — Hobby articles & code breakdowns (in JP)
+
